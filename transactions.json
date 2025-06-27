@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1745269746782,
+    "date": "2025-04-21T21:09:06.782Z",
+    "title": "Crédito ",
+    "amount": 10,
+    "bank": "Inter"
+  },
+  {
+    "id": 1745284260453,
+    "date": "2025-04-22T01:11:00.453Z",
+    "title": "Crédito",
+    "amount": 50,
+    "bank": "Inter"
+  },
+  {
+    "id": 1745286042367,
+    "title": "Credito",
+    "amount": 10,
+    "bank": "Nubank",
+    "date": "2025-04-22T01:40:42.367Z"
+  },
+  {
+    "id": 1745352170045,
+    "title": "Crédito",
+    "amount": 10,
+    "bank": "Inter",
+    "date": "2025-04-22T20:02:50.045Z"
+  },
+  {
+    "id": 1745367392686,
+    "title": "Crédito",
+    "amount": 10.5,
+    "bank": "inter.",
+    "date": "2025-04-23T00:16:32.686Z"
+  },
+  {
+    "id": 1745367420939,
+    "title": "crédito",
+    "amount": 11.75,
+    "bank": "Nubank.",
+    "date": "2025-04-23T00:17:00.939Z"
+  },
+  {
+    "id": 1745367463876,
+    "title": "Crédito",
+    "amount": 250,
+    "bank": "Banco do Brasil.",
+    "date": "2025-04-23T00:17:43.876Z"
+  },
+  {
+    "id": 1745373167981,
+    "title": "Pix",
+    "amount": 10,
+    "bank": "Nubank.",
+    "date": "2025-04-23T01:52:47.981Z"
+  },
+  {
+    "id": 1745373244633,
+    "title": "PIX",
+    "amount": 10,
+    "bank": "Banco do Brasil.",
+    "date": "2025-04-23T01:54:04.633Z"
+  },
+  {
+    "id": 1745373405344,
+    "date": "2025-04-23T01:56:45.344Z",
+    "title": "Pix",
+    "amount": 10,
+    "bank": "Inter"
+  },
+  {
+    "id": 1745373431353,
+    "date": "2025-04-23T01:57:11.353Z",
+    "title": "Crédito",
+    "amount": 10,
+    "bank": "Nubank"
+  },
+  {
+    "id": 1745373940679,
+    "date": "2025-04-23T02:05:40.679Z",
+    "title": "Pix",
+    "amount": 10.75,
+    "bank": "Inter"
+  },
+  {
+    "id": 1745424241997,
+    "title": "Crédito",
+    "amount": 10,
+    "bank": "Bradesco",
+    "date": "2025-04-23T16:04:01.998Z"
+  },
+  {
+    "id": 1745424278248,
+    "title": "PIX",
+    "amount": 11,
+    "bank": "Nubank",
+    "date": "2025-04-23T16:04:38.248Z"
+  },
+  {
+    "id": 1745424601914,
+    "title": "Pix",
+    "amount": 11.73,
+    "bank": "inter",
+    "date": "2025-04-23T16:10:01.914Z"
+  }
+]
